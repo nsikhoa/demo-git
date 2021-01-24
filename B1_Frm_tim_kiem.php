@@ -14,7 +14,7 @@
             $gt = $_POST["txtSearch"];
         }
         else{
-            echo "";
+            echo "Shiba";
         }
     ?>
     <form name="searchForm" method="post">
