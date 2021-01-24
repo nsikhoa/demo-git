@@ -11,7 +11,7 @@
         $name = $_POST["txtName"];
         $email = $_POST["txtEmail"];
         $code = $_POST["txtCode"];
-        echo "Server xử lý";
+        echo "Server is solving";
     }
 ?>
 
